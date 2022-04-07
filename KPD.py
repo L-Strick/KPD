@@ -209,7 +209,7 @@ if __name__ == "__main__":
   print(f"Donations Made: {assignment}\n")
 
   # Testing Bound at n = 3
-  cardinality, assignment = KPD.cycles_of_n(4)
+  cardinality, assignment = KPD.cycles_of_n(3)
 
   print(f"CYCLES OF LENGTH N = 3\n")
   print(f"----------------------\n")
